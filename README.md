@@ -11,7 +11,6 @@ A simple weather forecasting web application built using **HTML**, **CSS**, and 
   - **Humidity**
   - **Wind Speed**
 - **Search Box**: Users can enter a city name to get weather data specific to that city.
-- **Responsive Design**: The app works well on both desktop and mobile devices, making it easy to use anywhere.
 
 ## Technologies Used
 
